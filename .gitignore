@@ -1,0 +1,8 @@
+/.metadata/
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# bin folder
+bin/
